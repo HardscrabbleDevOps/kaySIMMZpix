@@ -6245,7 +6245,7 @@ body, html {
 }
 .parallax{
     /* The image used */
-    background-image: url('/kaySIMMZpix/app/img/head.jpg');
+    background-image: url('/app/img/head.jpg');
 
     /* Full height */
     height: 100%;
@@ -6322,8 +6322,8 @@ body, html {
 
 }
 .featured-img{
-    width: 341px;
-    height: 256px;
+    width: 512px;
+    height: 341px;
 }
 
 .img-gallery{
@@ -6367,6 +6367,10 @@ body, html {
     body * {
         font-size: 1em;
     }
+    .featured-img{
+        width: 512px;
+        height: 341px;
+    }
 
 }
 @media only screen and (max-width: 1024px) {
@@ -6375,7 +6379,7 @@ body, html {
     }
     .parallax, #videobg {
         /* The image used */
-        background-image: url('/kaySIMMZpix/app/img/head512.jpg');
+        background-image: url('/app/img/head512.jpg');
         /* Full height */
         height: 771px;
         background-attachment: fixed;
@@ -6386,8 +6390,8 @@ body, html {
         height:771px;
     }
     .featured-img{
-        width: 288px;
-        height: 256px;
+        width: 341px;
+        height: 288px;
     }
 
     .img-gallery{

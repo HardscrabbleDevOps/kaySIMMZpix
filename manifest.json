@@ -1,0 +1,19 @@
+{
+  "short_name": "KSP",
+  "name": "kaySIMMMZpix",
+  "icons": [
+      {
+          "src":"app/img/icon_blek.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },{
+          "src":"app/img/splash_blek.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "./",
+  "background_color": "#009688",
+  "theme_color": "#009688",
+  "display": "standalone"
+}

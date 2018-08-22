@@ -6245,7 +6245,7 @@ body, html {
 }
 .parallax{
     /* The image used */
-    background-image: url('/kaySIMMZpix/app/img/head.jpg');
+    background-image: url('/app/img/head.jpg');
 
     /* Full height */
     height: 100%;
@@ -6379,7 +6379,7 @@ body, html {
     }
     .parallax, #videobg {
         /* The image used */
-        background-image: url('/kaySIMMZpix/app/img/head512.jpg');
+        background-image: url('/app/img/head512.jpg');
         /* Full height */
         height: 771px;
         background-attachment: fixed;
